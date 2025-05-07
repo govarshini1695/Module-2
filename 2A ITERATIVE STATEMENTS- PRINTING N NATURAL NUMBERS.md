@@ -14,7 +14,7 @@ To create a Python program for printing `1 to n`  even numbers using a `for` loo
 4. Display the message **"Even Numbers are :"**.
 5. Use a `for` loop to iterate from 1 to `n` (inclusive).
 6. In each iteration, print the current value of `i`.
-7. Terminate the program.
+7. Terminate the program. 
 
 ---
 
